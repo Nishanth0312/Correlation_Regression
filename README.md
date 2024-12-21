@@ -1,5 +1,5 @@
 # EXP 3: Correlation and regression for data analysis
-# Date:22.09.23
+# Date: 19/10/2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -22,8 +22,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : Nishanth R S
+Register number : 24900198
 import numpy as np
 import math
 import matplotlib.pyplot as plt
