@@ -23,7 +23,7 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 ```py
 Developed by : Nishanth R S
-Register number : 24900198
+Register number : 24900198 
 import numpy as np
 import math
 import matplotlib.pyplot as plt
